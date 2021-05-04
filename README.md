@@ -1,2 +1,2 @@
 # rmf
-Go package for RMF management
+Go package for handling RMF related data (STIGS, SCAP, NESSUS)
